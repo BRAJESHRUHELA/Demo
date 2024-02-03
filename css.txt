@@ -1,1 +1,1 @@
-this is a css file which is made for styling the components.
+this is a css file which is made for styling the components.Here i made the changes.
